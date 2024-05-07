@@ -1,0 +1,33 @@
+* Use this controller/motor ecosystem to build interesting demo projects/products, like:
+		- NZ2 is late to game now, but open source motors to pair with it would create an ecosystem that would make us industry leaders
+			* Small motors
+			* linear motors (nonexistant!). Memory-shape alloy?
+			* ad hoc motors in odd places using linear motors? Special sensing needed to accomodate tolerance issues?
+			* Lightweight "rim" motor built into plastic golfcart-like large wheel (i.e. the new robowheel)
+			* Target astro as an additional use case. Steve mentioned hexapod focuser/derotator. Open source equatorial mount.
+			* Consider integrating R-sense for NZ3
+	* The first robot product. Must climb stairs, vacuum, desktop cleaning, and self-charging
+	* Hardware-based neural networks (investigate optical neuron-analogues). Initial product offering: hardware brain kit
+	* Revive v-canal protocol
+	* Estrogen-generator organ
+	* Organ manufacturing research
+	* Engineered trees for architectural structures. Start with fast growing straight/tall trees (holy grail: fast growing Giant Sequoia). What limits growth speed? If nutrient availability proves to be the bottlneck, perhaps this could be an externally augmented with some growth device
+	* Fat cell growth in vivo
+	* Skin cultures to test for treatments to get skin to generate with fewer cells in each new layer (tightening) 
+	* Composite weaving additive manufaturing
+		- Liveaboard sailboat as demonstration
+	* EVTOL external noie cancellation
+	* EVTOL panoptic sensor cluster
+	* EVTOL demo aircraft, start with scale prototype
+	* Airframe digital twin/preflight system. Network of strain, acceleration, and moisture sensors? Motion amplification cameras?
+	* "End of Obsolescence" opens source product line: dishwashers, refrigerators, etc. 
+	* White-LED glinting Earrings
+	* skyCAD: mechanical, EM, and optical CAD (multiphysics CAD)
+	* Linux suite of telescope and camera control tools
+	
+	* Samuel's website interlinking thing but for the US economy. Where the fuck is the money going and coming from?
+
+
+This is idea no 1: blah blah
+
+This is idea no 2: here is some more blah
