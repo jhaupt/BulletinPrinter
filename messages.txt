@@ -1,4 +1,4 @@
-* Use this controller/motor ecosystem to build interesting demo projects/products, like:
+Use this controller/motor ecosystem to build interesting demo projects/products, like:
 		- NZ2 is late to game now, but open source motors to pair with it would create an ecosystem that would make us industry leaders
 			* Small motors
 			* linear motors (nonexistant!). Memory-shape alloy?
@@ -28,6 +28,4 @@
 	* Samuel's website interlinking thing but for the US economy. Where the fuck is the money going and coming from?
 
 
-This is idea no 1: blah blah
-
-This is idea no 2: here is some more blah
+Here's a message for ya, kiddo.
