@@ -35,7 +35,7 @@ public class BulletinPrinter {
 
 		// Set colors and font
 		label.setForeground(new java.awt.Color(255, 255, 255));	
-		label.setFont(new Font("Verdana", Font.BOLD, 20));
+		label.setFont(new Font("Verdana", Font.BOLD, 80));
 		frame.getContentPane().setBackground(new java.awt.Color(0, 0, 0));
 
 
